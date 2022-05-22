@@ -1,1 +1,3 @@
-# LGM-VIP-Web-Task1
+#TO DO LIST APP
+
+This is basic to do list app created using HTML,  CSS & Javascript
